@@ -17,6 +17,7 @@ tensorboardX
 tqdm
 jinja2
 smplx
-sklearn
+#sklearn
+scikit-learn
 opendr
 chumpy
